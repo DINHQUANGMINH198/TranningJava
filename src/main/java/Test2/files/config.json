@@ -1,0 +1,7 @@
+{
+  "lengthArray":1000000,
+  "random":false,
+  "threads":4,
+  "input":"src/main/java/Test2/files/input.txt",
+  "output":"src/main/java/Test2/files/output.txt"
+}
